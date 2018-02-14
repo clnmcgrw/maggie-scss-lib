@@ -1,0 +1,6 @@
+@import 'mixins';
+
+.the--img {
+  margin: 0;
+  @include figureImg( 1300, 1950 );
+}

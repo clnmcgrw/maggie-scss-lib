@@ -1,0 +1,11 @@
+.the--img {
+  margin: 0;
+  position: relative;
+  padding-bottom: 66.66667%;
+  height: 0px; }
+  .the--img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }

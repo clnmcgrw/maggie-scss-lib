@@ -1,12 +1,13 @@
 {
   "name": "maggie-scss-mixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kenny krosky",
+  "repository": "github:atokad5/maggie-scss-lib",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.23.6",
